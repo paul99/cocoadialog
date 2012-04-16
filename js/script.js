@@ -164,7 +164,7 @@
       var stable, dev;
       var stableVersion = '2.1.1';
       var stableReleased = 'April 26, 2006';
-      var devVersion = '3.0.0-beta5';
+      var devVersion = '3.0.0-beta6';
       if(downloads) {
         $.each(downloads, function(index,download){
           var replacements = [ 'cocoaDialog-', 'cocoaDialog_', 'CocoaDialog-', '.dmg', '.tar.gz' ];
